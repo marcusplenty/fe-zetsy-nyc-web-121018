@@ -18,3 +18,30 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  color: #98ADA6;
+  font-size: 5em;
+  font-weight: 700;
+  padding: 10px 0;
+  margin: 0;
+}
+ hr {
+  color: #CCCCCC;
+}
+ h2 {
+  color: #6F7F7A;
+  font-weight: bold;
+}
+ #necklace {
+  border: 5px solid #98ADA6;
+}
+ a img {
+  transition: border 0.5s ease;
+}
+ a img:hover {
+  border: 5px solid #6F7F7A;
+}
+ .footer {
+  text-align: right;
+}
