@@ -22,6 +22,7 @@ body {
 h1 {
   color: #98ADA6;
   font-size: 5em;
+  font-family: 'Libre Baskerville', serif;
   font-weight: 700;
   padding: 10px 0;
   margin: 0;
@@ -38,6 +39,7 @@ h1 {
 }
  a img {
   transition: border 0.5s ease;
+  border: 5px solid #CCC;
 }
  a img:hover {
   border: 5px solid #6F7F7A;
